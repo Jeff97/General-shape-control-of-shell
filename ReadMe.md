@@ -47,34 +47,33 @@ Each folder also contains necessary files to run the simulation using ABAQUS. To
 
 ![2Dto2D](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/2Dto2D.jpg)
 <div align="center">
-  2Dto2D
+  Numerical simulation results on the growing processes of the plates with the target shapes: (a) the disk; (b) the scallop shape; (c) the axe shape.
 </div>
 
 ### Case 2: from 2D to 3D surface
 
 ![2Dto3D](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/2Dto3D.jpg)
 <div align="center">
-  2Dto3D
+    Numerical simulation results on the growing processes of the plates with the target shapes: (a) the saddle surface; (b) the Dupin cyclide; (c) the Genhel surface.
 </div>
 
 ### Case 3: from 3D to 3D surface
 
 ![3Dto3D](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/3Dto3D.jpg)
 <div align="center">
-  3Dto3D
+    Numerical simulation results on the growing processes of the shells with the target shapes: (a) the petal; (b) the sea shell.
 </div>
 
 ### Case 4: the parametrization and simulated growth deformation of the complex surfaces
 
 ![(a) facial expression from a calm face to a shocked face; (b) growth deformation from a Beetle car to a Taxi car](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/ComplexFace.jpg)
 <div align="center">
-  (a) facial expression from a calm face to a shocked face; (b) growth deformation from a Beetle car to a Taxi car
+  (a) facial expression from a calm face to a shocked face; (b) growth deformation from a Beetle car to a Taxi car.
 </div>
 
 ### Case 5: continuous face change
 
 ![the continuous change from a robot’s face to a woman’s face, and finally to a men’s face](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/FaceChanging.jpg)
 <div align="center">
-  the continuous change from a robot’s face to a woman’s face, and finally to a men’s face
+  The continuous change from a robot’s face to a woman’s face, and finally to a men’s face.
 </div>
-
