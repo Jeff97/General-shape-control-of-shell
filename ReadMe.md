@@ -46,24 +46,35 @@ Each folder also contains necessary files to run the simulation using ABAQUS. To
 ### Case 1: from 2D to 2D plane
 
 ![2Dto2D](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/2Dto2D.jpg)
-<center>2Dto2D</center>
+| |
+|:--:|
+|2Dto2D|
 
 ### Case 2: from 2D to 3D surface
 
 ![2Dto3D](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/2Dto3D.jpg)
-<center>2Dto3D</center>
+| |
+|:--:|
+|2Dto3D|
 
 ### Case 3: from 3D to 3D surface
 
 ![3Dto3D](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/3Dto3D.jpg)
-<center>3Dto3D</center>
+| |
+|:--:|
+|3Dto3D|
 
 ### Case 4: the parametrization and simulated growth deformation of the complex surfaces
 
 ![(a) facial expression from a calm face to a shocked face; (b) growth deformation from a Beetle car to a Taxi car](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/ComplexFace.jpg)
-<center>(a) facial expression from a calm face to a shocked face; (b) growth deformation from a Beetle car to a Taxi car</center>
+| |
+|:--:|
+|(a) facial expression from a calm face to a shocked face; (b) growth deformation from a Beetle car to a Taxi car|
 
 ### Case 5: continuous face change
 
 ![the continuous change from a robot’s face to a woman’s face, and finally to a men’s face](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/FaceChanging.jpg)
-<center>the continuous change from a robot’s face to a woman’s face, and finally to a men’s face</center>
+| |
+|:--:|
+|the continuous change from a robot’s face to a woman’s face, and finally to a men’s face|
+
