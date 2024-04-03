@@ -1,0 +1,4 @@
+T:
+cd T:\Abaqus-Temp\20231201CarScale
+
+abaqus job=Car_P1 user=Growth-Car.for cpus=24

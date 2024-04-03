@@ -1,0 +1,4 @@
+T:
+cd T:\Abaqus-Temp\20231212RobotToSophie
+
+abaqus job=Robot_P1 user=Growth-Robot.for cpus=24

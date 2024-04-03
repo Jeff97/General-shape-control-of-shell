@@ -1,0 +1,4 @@
+T:
+cd T:\Abaqus-Temp\20231205AlexCoarse
+
+abaqus job=Alex_P1 user=Growth-Alex.for cpus=24
