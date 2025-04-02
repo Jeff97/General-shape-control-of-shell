@@ -10,7 +10,7 @@ Here, we provide some supplementary files for the manuscript.
 
 Each folder also contains necessary files to run the simulation using ABAQUS. To run the simulation, please make sure 
 
-- Visual Studio and Parallel Studio are linked to ABAQUS, such that it can be used for subroutine development. [Here](https://www.researchgate.net/publication/349991987_Linking_ABAQUS_20192020_and_Intel_oneAPI_Base_Toolkit_FORTRAN_Compiler) is a linking guide from the internet. 
+- Visual Studio and Parallel Studio(OneAPI) are linked to ABAQUS, such that they can be used for subroutine development. [Here](https://www.researchgate.net/publication/349991987_Linking_ABAQUS_20192020_and_Intel_oneAPI_Base_Toolkit_FORTRAN_Compiler) is a guide for linking these compiler to ABAQUS. 
 
 - The path in UMAT subroutine (see line 135 to 200 in the .for file) has been modified to your own one, since it is set as absolute path. For example
 
@@ -73,7 +73,8 @@ Each folder also contains necessary files to run the simulation using ABAQUS. To
 
 ### Case 5: continuous face change
 
-![the continuous change from a robot’s face to a woman’s face, and finally to a men’s face](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/FaceChanging.jpg)
+![the continuous change from a robot’s face to a woman’s face, and finally to a man’s face](https://github.com/Jeff97/General-shape-control-of-shell/blob/main/FaceChanging.jpg)
 <div align="center">
-  The continuous change from a robot’s face to a woman’s face, and finally to a men’s face.
+  The continuous change from a robot’s face to a woman’s face, and finally to a man’s face.
 </div>
+
